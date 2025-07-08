@@ -12,7 +12,7 @@ I have included 5 hand-coded Python problems using key concepts like:
 - 🔎 List and dictionary manipulation
   
 
-## 📌 Problem List (Selected Explained pROBLEM)
+## 📌 Problem List 
 
 1. **Vowel vs Consonant Name Split**  
    ➤ Separate a list of names into vowels and consonants
