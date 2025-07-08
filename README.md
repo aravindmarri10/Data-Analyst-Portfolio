@@ -4,7 +4,7 @@ Data Analysis Project
 # 🧠 Capstone Project: Python Logic & OOP Solutions
 
 Welcome! This is my first portfolio project as part of my journey to become a Data Analyst.  
-It includes 5 hand-coded Python problems using key concepts like:
+I have included 5 hand-coded Python problems using key concepts like:
 
 - 🔁 Loops and conditionals  
 - 🧮 Functional tools (`map`, `filter`, `reduce`)  
@@ -12,7 +12,7 @@ It includes 5 hand-coded Python problems using key concepts like:
 - 🔎 List and dictionary manipulation
   
 
-## 📌 Problem List
+## 📌 Problem List (Selected Explained pROBLEM)
 
 1. **Vowel vs Consonant Name Split**  
    ➤ Separate a list of names into vowels and consonants
@@ -40,8 +40,7 @@ It includes 5 hand-coded Python problems using key concepts like:
 
 ## 📽️ Video Explanation
 
-🎥 [Click here to watch my capstone walkthrough](#)  
-*(Replace `#` with your YouTube or Google Drive link)*
+🎥 https://drive.google.com/file/d/1L3Lzltr9K6XfF7fyGgQZ4DGkY9iBu4TV/view?usp=drive_link
 
 ---
 
